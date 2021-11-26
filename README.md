@@ -1,1 +1,3 @@
-# soft_testing
+# Kasmynin Project
+## Neptun: OTZT63
+# Testing the site: 
